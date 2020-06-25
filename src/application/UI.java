@@ -20,7 +20,7 @@ public class UI {
 			
 		}
 		else {
-			System.out.println(piece);
+			System.out.print(piece);
 			
 		}
 		
